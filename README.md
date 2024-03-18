@@ -7,6 +7,9 @@ Permite conocer como comunicarnos con un backend, como leer los resultados, como
 
 * LinkedIn (www.linkedin.com/in/edialfredog/)
 
+## Ver ejemplo en vivo
+- (https://edialfredog.github.io/likeador/)
+
 ## Instalación
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html 
 
